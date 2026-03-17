@@ -70,18 +70,16 @@ class Alif:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-Tanvir-Uddin-Alif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Tanvir-Uddin-Alif&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-Tanvir-Uddin-Alif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Tanvir-Uddin-Alif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_radius=10" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Tanvir-Uddin-Alif&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Tanvir-Uddin-Alif&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9&stroke=00b4d8&border_radius=10" width="98%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Tanvir-Uddin-Alif&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Tanvir-Uddin-Alif&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=00b4d8&hide_border=true&radius=8" width="98%"/>
 </div>
 
 ---
@@ -95,14 +93,6 @@ class Alif:
 | ☁️ **Cloud & DevOps** | Docker, AWS, CI/CD pipelines |
 | 🤖 **AI Engineering** | LLM orchestration, RAG systems, Prompt Engineering |
 | 🕸️ **AI Agents & Agentic AI** | LangChain, LangGraph, LlamaIndex, multi-agent systems |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MD-Tanvir-Uddin-Alif&theme=tokyonight&no-frame=true&column=6&margin-w=10"/>
-</div>
 
 ---
 
