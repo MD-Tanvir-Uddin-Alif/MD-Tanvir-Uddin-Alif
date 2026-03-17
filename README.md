@@ -4,7 +4,7 @@
 
 ### Backend Developer · Python Ecosystem · AI Integrations
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+%7C+Flask+%7C+FastAPI;Building+Scalable+APIs+%26+AI+Systems;LangChain+%7C+LangGraph+%7C+LlamaIndex;AI+Agents+%26+Agentic+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+%7C+Flask+%7C+FastAPI;Building+Scalable+APIs+%26+AI+Systems;LangChain+%7C+LangGraph+%7C+LlamaIndex;AI+Agents+%26+Agentic+AI)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:alif252669@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -12,7 +12,7 @@
   <a href="https://github.com/MD-Tanvir-Uddin-Alif"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MD-Tanvir-Uddin-Alif&color=00b4d8&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=MD-Tanvir-Uddin-Alif&color=F97316&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -70,16 +70,16 @@ class Alif:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-Tanvir-Uddin-Alif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_radius=10" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Tanvir-Uddin-Alif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-Tanvir-Uddin-Alif&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=E2E8F0&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Tanvir-Uddin-Alif&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&border_radius=12" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Tanvir-Uddin-Alif&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9&stroke=00b4d8&border_radius=10" width="98%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Tanvir-Uddin-Alif&hide_border=true&background=0D1117&ring=F97316&fire=EF4444&currStreakNum=F97316&currStreakLabel=F97316&sideLabels=A855F7&sideNums=A855F7&dates=94A3B8&stroke=F97316&border_radius=12" width="98%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Tanvir-Uddin-Alif&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=00b4d8&hide_border=true&radius=8" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Tanvir-Uddin-Alif&bg_color=0D1117&color=A855F7&line=F97316&point=EF4444&area=true&area_color=F97316&hide_border=true&radius=8" width="98%"/>
 </div>
 
 ---
